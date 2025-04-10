@@ -9,3 +9,8 @@
   <div style="max-width: 500px; margin-left: 50px;">
   <H1> Artificial Intelligence  </H1>
   </div>
+
+
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ComradeMohan-CSA1746-AI/count.svg" />
+</p>
